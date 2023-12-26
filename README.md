@@ -1,25 +1,4 @@
-`C: > Users > Booz > Documents > README.py`
-```py
-import booze
-#-? Imported modules.
 
-name = 'Booze' #-? Place username here.
-pronouns = '(They/Them)' #-? Place pronouns here.
-#-? Varibles used for later.
-
-def Booze():
-    #-? About me.
-    print(f"Hey there, name's {name}!")
-    print(f"I'm a non-binary, {pronouns} basic programmer who just does very odd things with code.\n\n")
-    
-    #-? Favorite thing(s).
-    print("Currently learning Python as it's very helpful in my opinion. #ChangeMyMind\nCombine that with something and boom, a thing!\n")
-    
-    #-? Socials.
-    print("Follow me also here!") #-? If you want I'M NOT FORCING YO-
-    print("Twotter: > https://twitter.com/XMbosse") #-? Help me get cancelled /j
-    print("YoozTubs: > https://www.youtube.com/channel/UC92oiCVBx56LlDKAz6Zm6bg") #-? MFW you don't have a custom link :waah:
-```
 `Terminal`
 ```md
 Windows PowerShell
